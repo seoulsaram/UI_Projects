@@ -43,7 +43,8 @@
  <br/>
  <br/>
 ### [4] 지구인 프로젝트: 에이스병원
-![image](https://user-images.githubusercontent.com/70192334/109634621-cb37c600-7b8c-11eb-8777-02787407e024.png)
+<br/>
+<img src="https://user-images.githubusercontent.com/70192334/109634621-cb37c600-7b8c-11eb-8777-02787407e024.png"/>
 <br/>
  
 지구인 프로젝트는 에이스병원에서 진행하는 프로젝트로, 병원 환자들과 보호자들이 병원 원무 뿐 아니라 다양한 정보를 제공받고, <br/>
