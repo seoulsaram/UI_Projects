@@ -25,7 +25,7 @@
  
 ### [2] 알고바다: (주)투비코
 <br/>
-![스크린샷 2021-03-02 오후 7 21 20](https://user-images.githubusercontent.com/70192334/109635550-dccd9d80-7b8d-11eb-8356-f2d8f5e776b0.png)
+<img src="https://user-images.githubusercontent.com/70192334/109635550-dccd9d80-7b8d-11eb-8356-f2d8f5e776b0.png"/>
 
 <br/>
    
